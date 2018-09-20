@@ -4,7 +4,7 @@
   year: 2009 &mdash; 2014
   #awards:
     #- award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: My work during graduate phase is centered around solving complex differential equations using numerical methods. The problem I took on for my master's research was to understand fluid flow around a body using immersed boundary method techniques. The crux of my thesis is based on using k-means clustering model to predict flow variants like pressure, velocity, etc. This model is trained and tested with data derived from performing real-world experiments. With inherent interest in programming, I started to work in software engineering graduation.
 
 #- degree: High School Diploma
   #uni: Springfield High School
