@@ -1,16 +1,37 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: grace
+  role: Staff Engineer & Design
+  #duration: 2015 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: A deployment tool that sets up an optimized serving stack for a deep learning/machine learning model pipeline.
+  stack: Python, Docker, Kubernetes
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: ci/cd
+  role: DevOps & Reliability
+  #duration: 2015 &mdash; Present
+  #url: "#"
+  description: Implemented deployment pipelines for containerized microservices, implemented monitoring, centralized logging systems. 
+  stack: Shell Script, Python, Grafana, ELK, nginx, AWS Services 
+
+- project: nfx
+  role: Senior Developer & Design
+   #duration: 2015 &mdash; Present
+  #url: "#"
+  description: A distributed system of micorservices which reads/writes text/image data across multiple social/discovery platforms.
+  stack: Node.js, Python, MongoDB, Queue
+
+- project: ana.chat
+  role: Design team & Microservice Owner
+  # duration: 2007 &mdash; Present
+  url: "https://ana.chat"
+  description: Core member of design team of a hybrid human agent/bot chat platform https://ana.chat and major contributor to bot module.
+  stack: Python, Java, Redis, SQL, MongoDB
+
+- project: backend
+  role: Developer
+  #duration: 2007 &mdash; Present
+  url: "ekincare.com"
+  description: Implemented data integration pipelines for consumer health data from a partner organization. Responsible for backend of the app. 
+  stack: Ruby on Rails, SQL

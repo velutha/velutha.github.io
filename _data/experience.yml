@@ -2,14 +2,19 @@
 - company: NicheAI Pvt Ltd
   position: Staff engineer
   duration: April, 2018 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Building a to-be open sourced tool to facilitate production grade deployment of machine learning / deep learning models. 
 
 - company: Nowfloats Technologies Pvt Ltd
   position: Software Engineer
   duration:  Oct, 2015 &mdash; Mar, 2016
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: Learnt about scale, lead a team of three engineers, systems design team member, implemented development practices across teams, took on mentoring roles, had fun.
 
 - company: ekincare.com
   position: Full Stack Developer
   duration:   Oct, 2014 &mdash; Sept, 2015
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: Learnt about production the hard way, full stack developer, brought a shift from manual processes to semi-automatic processes, grew fond of server side programming. 
+
+- company: Freelancer
+  position: Web Developer
+  duration:   Oct, 2014 &mdash; Sept, 2015
+  summary: Dabbled with web, developed responsive websites, developed a bookmarking app, found my groove.
