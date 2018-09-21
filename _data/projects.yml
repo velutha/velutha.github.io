@@ -13,7 +13,7 @@
   #duration: 2015 &mdash; Present
   #url: "#"
   description: Implemented deployment pipelines for containerized microservices, implemented monitoring, centralized logging systems. 
-  stack: Shell Script, Python, Grafana, ELK, nginx, AWS Services 
+  stack: Shell Script, Python, Grafana, ELK, Nginx, AWS Services 
 
 - project: nfx
   role: Senior Developer & Design
@@ -27,11 +27,11 @@
   # duration: 2007 &mdash; Present
   url: "https://ana.chat"
   description: Core member of design team of a hybrid human agent/bot chat platform https://ana.chat and major contributor to bot module.
-  stack: Python, Java, Redis, SQL, MongoDB
+  stack: Python, Java, Redis, SQL, MongoDB, Apache Thrift
 
 - project: backend
   role: Developer
   #duration: 2007 &mdash; Present
   url: "ekincare.com"
-  description: Implemented data integration pipelines for consumer health data from a partner organization. Responsible for backend of the app. 
-  stack: Ruby on Rails, SQL
+  description: Implemented data integration pipelines for consumer health data from a partner organization. Responsible for monolith backend of the app which serves end consumers, enterprises and support agents.
+  stack: Ruby on Rails, SQL, Redis, Sidekiq
