@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: grace
-  role: Staff Engineer & Design
+  role: Engineering & Design
   #duration: 2015 &mdash; Present
   # url: "#"
   description: A deployment tool that sets up an optimized serving stack for a deep learning/machine learning model pipeline.
@@ -23,7 +23,7 @@
   stack: Node.js, Python, MongoDB, Queue
 
 - project: ana.chat
-  role: Design team & Microservice Owner
+  role: Design & Microservice Owner
   # duration: 2007 &mdash; Present
   url: "https://ana.chat"
   description: Core member of design team of a hybrid human agent/bot chat platform https://ana.chat and major contributor to bot module.
